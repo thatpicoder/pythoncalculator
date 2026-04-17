@@ -1,6 +1,6 @@
 # pythoncalculator
-simple calculator made in python for windows
-runs in cmd
+- simple calculator made in python for windows
+- runs in cmd
 
 # how to use
 
